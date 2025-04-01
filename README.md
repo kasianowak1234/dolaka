@@ -8,4 +8,4 @@ Użytkownik przyjmuje do wiadomości, że jakiekolwiek próby wykorzystania apli
 Zgłaszanie podejrzanych działań: Twórcy aplikacji zobowiązują się do zgłaszania wszelkich podejrzanych działań związanych z aplikacja do odpowiednich służb ścigania, jeśli istnieje podejrzenie o jej wykorzystywanie w celach przestępczych, w tym w sprawach związanych z podrabianiem dokumentów. 
 Prewencja przestępcza: Twórcy aplikacji podejmują wszelkie dostępne środki, aby uniemożliwić użytkownikom wykorzystywanie aplikacji w celach niezgodnych z prawem. Wszelkie mechanizmy weryfikacji, blokady lub kontroli, które zostaną wdrożone w przyszłości, maja na celu ochronę przed przestępstwami i naruszeniami prawa.
 
-DOŁĄCZ NA DISCORD! - https://discord.gg/vUfUksANEw
+
